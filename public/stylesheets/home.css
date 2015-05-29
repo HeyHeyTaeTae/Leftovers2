@@ -1,0 +1,36 @@
+#fridge {
+	position: relative;
+}
+
+#modalButton {
+	position: absolute;
+	left: 110px;
+    top: 420px;
+    font-weight: bold;
+}
+
+#appName {
+	position: absolute;
+	top: 125px;
+    left: 30px;
+    font-size: 100px;
+    font-weight: bolder;
+
+}
+
+#soundBite {
+	position: absolute;
+    top: 240px;
+    left: 35px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#missionParagraph {
+	position: absolute;
+	left: 36px;
+    bottom: 310px;
+    font-size: 22px;
+    color: white;
+    font-weight: bolder;
+}

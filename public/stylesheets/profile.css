@@ -1,0 +1,19 @@
+#openFridge {
+	position: relative;
+}
+
+#newGroceries {
+	position: absolute;
+	right: 420px;
+	top: 40px;
+}
+
+#groceries-ul {
+	position: absolute;
+	top: 150px;
+  right: 413px;
+}
+
+img {
+	background-size: 100%;
+}
